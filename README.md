@@ -1,2 +1,1 @@
-# arin-reddittools
-some tools to deal with scraped reddit post
+Warning poetry does not work here. torch and transformers must be installed manually
