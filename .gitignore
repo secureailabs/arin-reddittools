@@ -161,6 +161,6 @@ cython_debug/
 
 **venv**
 temp/*
-dataset.json
+*.json
 model.pkl
 *.csv
